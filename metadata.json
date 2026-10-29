@@ -1,0 +1,6 @@
+{
+  "name": "Block Blast! Remake",
+  "description": "A polished, responsive remake of the mobile hit puzzle game Block Blast! with satisfying combos, vibrant blocks, smooth touch controls, and synthetic sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
